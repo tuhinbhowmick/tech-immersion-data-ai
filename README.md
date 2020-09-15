@@ -1,4 +1,4 @@
-# Tech Immersion Mega Data & AI Workshop
+# Tech Immersion Mega Data & AI Workshop (Updated)
 
 ## Setup: Connecting to your VM with Remote Desktop
 
